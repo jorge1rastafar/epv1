@@ -1,0 +1,14 @@
+ body {
+      background-color: #38b2c7; /* Cor de fundo da página */
+    }
+    
+
+      .centralizado {
+        text-align: center;
+      }
+      .container {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr; /* Define duas colunas de igual tamanho */
+      align-items: center; /* Alinha verticalmente os itens dentro da grid */
+    }
+  
